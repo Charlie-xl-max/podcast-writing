@@ -17,6 +17,8 @@
 ```text
 podcast-writing/
 ├── SKILL.md
+├── agents/
+│   └── openai.yaml
 └── references/
     ├── author-style.md
     ├── formats.md
@@ -24,7 +26,7 @@ podcast-writing/
     └── spoken-style.md
 ```
 
-Windows 默认位置为 `%USERPROFILE%\.codex\skills\podcast-writing`；也可以使用 `$CODEX_HOME\skills\podcast-writing`。安装后在 Codex 中使用 `$podcast-writing`，或直接提出播客写稿、录后整理和 shownotes 需求。
+Windows 默认位置为 `%USERPROFILE%\.codex\skills\podcast-writing`；也可以使用 `$CODEX_HOME\skills\podcast-writing`。安装后在 Codex 中使用 `$podcast-writing`，或直接提出播客写稿、录后整理和 shownotes 需求。Codex 中显示的标题为“播客写作”。
 
 ## 文件说明
 

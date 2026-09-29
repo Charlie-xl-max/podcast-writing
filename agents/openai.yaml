@@ -1,0 +1,7 @@
+interface:
+  display_name: "播客写作"
+  short_description: "播客策划、口播稿、访谈与录后 shownotes 创作"
+  default_prompt: "使用 $podcast-writing 按我的播客风格撰写或整理本期内容。"
+
+policy:
+  allow_implicit_invocation: true

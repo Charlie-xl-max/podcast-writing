@@ -18,6 +18,7 @@
 podcast-writing/
 ├── SKILL.md
 └── references/
+    ├── author-style.md
     ├── formats.md
     ├── shownotes.md
     └── spoken-style.md
@@ -28,6 +29,7 @@ Windows 默认位置为 `%USERPROFILE%\.codex\skills\podcast-writing`；也可�
 ## 文件说明
 
 - `SKILL.md`：阶段判断、写作流程、事实边界和交付原则
+- `references/author-style.md`：依据作者过往内容提炼并延续表达风格
 - `references/formats.md`：不同播客类型与制作阶段的写法
 - `references/spoken-style.md`：口播可听性与多人互动
 - `references/shownotes.md`：shownotes 的材料等级、转录概要处理、发言归属和时间章节规则
